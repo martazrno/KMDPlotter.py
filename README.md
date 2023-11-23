@@ -13,6 +13,6 @@ The scatter thats within the parallel lines is the relevant data, and we can cou
 
 The scatter that lays within Limit 1 or 2 is defined by their KM, KMD and distance from the line. When 'Save New Scatter' button is pressed, a pop-up window appears allowing the user to save that data in a csv file.
 
-This KMDPlotter.py repository contains 4 different codes: KMD_2.py, KMD_1.py, KMD_2.py. KMD_2.py, KMD_1_web.py is the original python file which does exactly as explained before. KMD_1.py works similarly, but the input file only has 3 columns: mass, intensity, ion mass. KMD_2.py has an extra column 'extra' for data that should be highlighted on the graph. KMD_1_web.py is a work in progress. It needs to be adapted so it can be made into a web application.
+This KMDPlotter.py repository contains 4 different codes: KMD_2.py, KMD_1.py, KMD_2.py. KMD_2.py, KMD_1_web.py is the original python file which does exactly as explained before. KMD_1.py works similarly, but the input file has these columns: mass, intensity, ion mass and extra. KMD_2.py has an extra column 'extra' for data that should be highlighted on the graph. KMD_1_web.py is a work in progress. It needs to be adapted so it can be made into a web application.
 
 The other documents in the repo are a User Documentation for KMD_2.py, examples of input files for each python program and their output csv files.
